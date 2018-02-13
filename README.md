@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. Fork this [pen](https://codepen.io/agzeri/pen/aqwjLM).
+1. Fork this [pen](https://codepen.io/agzeri/pen/aqwjLM) and save it in your profile.
 2. Configure `Sass` as pre-processor.
 3. Fix all elements and use only `classes` with `Sass` variables and nesting.
 
